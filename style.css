@@ -1,0 +1,41 @@
+body{
+  background-color: rgb(84, 111, 249);
+  
+}
+ header{
+  text-align: center;
+  color: white;
+
+ }
+
+ #msg {
+   font-size: 25px;
+ }
+ section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    margin: auto;
+    width: 500px;
+    box-shadow:5px 5px 10px  #dfd02864;
+ }
+
+ div{
+   text-align: center;
+   padding: 8px;
+ }
+
+ footer{
+   
+   margin: auto;
+    font-style: italic;
+   display: flex;
+    
+ }
+ .redes{
+   margin-top: 10px;
+   justify-content: space-between;
+   padding-left: 10px;
+   width: 200px;
+ }
+
